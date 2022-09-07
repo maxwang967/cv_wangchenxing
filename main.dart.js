@@ -33997,7 +33997,7 @@ b=p}}B.b.l(j.b,b,a)}}
 A.C6.prototype={
 T(a){return new A.tp(B.Eh,"CV - Chenxing Wang",A.acl(null,B.dI,null),null)}}
 A.C7.prototype={
-T(a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=null,a0=A.iQ(B.Bl,B.P),a1=A.iQ(A.a([new A.rN(A.akE(a,a,new A.qs("avatar.jpg",a,a)),100,142,a)],t.p),B.P),a2=t.p
+T(a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=null,a0=A.iQ(B.Bl,B.P),a1=A.iQ(A.a([new A.rN(A.akE(a,a,new A.qs("assets/avatar.jpg",a,a)),100,142,a)],t.p),B.P),a2=t.p
 a1=A.a([a0,B.eI,a1,A.iQ(B.A1,B.P),A.iP(a,a,B.ap,a,a,!0,a,B.HV,B.W,a,a,1,B.a2),A.dM(a,a,a,a,8,a,a,a)],a2)
 a0=A.a_C(a)
 a0.aD=new A.Uu()
